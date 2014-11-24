@@ -20,7 +20,7 @@
                     Drugs and Alcoholism
                 </h1>
                 <h5 class="site-title">
-                	By: Catriona Harvey, Samantha Huerta, Wei Chen
+                    By: Catriona Harvey, Samantha Huerta, Wei Chen
                 </h5>
             </div>
 
@@ -82,14 +82,6 @@
                                         </div>
                                     </a>
                                 </div> 
-                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <i class="fa fa-building"></i>
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div> 
                             </div>
                             <div class="row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
@@ -112,7 +104,7 @@
 
                             <br></br>
 
-			                 <div class="row margin-top-10">
+                             <div class="row margin-top-10">
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#addictionResults" class="change-section">
                                         <div class="black-bg btn-menu">
@@ -121,7 +113,7 @@
                                     </a>
                             </div>
 
-				            <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                            <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#Withdrawal" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Withdrawals from Addiction</h2>
@@ -129,7 +121,7 @@
                                     </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabSuggestions" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Suggestions</h2>
@@ -137,23 +129,16 @@
                                     </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabCenter" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Information</h2>
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div>
                             </div>
 
-			    <br>
+                <br>
 
                             <div class="row">
                                 <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
@@ -184,7 +169,7 @@
                             </div>
 
 
-			                 <div class="row margin-top-10">
+                             <div class="row margin-top-10">
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#menu" class="change-section">
                                         <div class="black-bg btn-menu">
@@ -192,7 +177,7 @@
                                         </div>
                                     </a>
                                 </div>
-			                 </div>
+                             </div>
 
                             
                         </section><!-- /.product-section -->    
@@ -205,7 +190,7 @@
                             <br></br>
 
 
-			   <div class="row margin-top-10">
+               <div class="row margin-top-10">
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#CauseOfAddiction" class="change-section">
                                         <div class="black-bg btn-menu">
@@ -214,7 +199,7 @@
                                     </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#Withdrawal" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Withdrawals from Addiction</h2>
@@ -222,7 +207,7 @@
                                     </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabSuggestions" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Suggestions</h2>
@@ -230,24 +215,17 @@
                                     </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabCenter" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Information</h2>
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div>
                             </div>
 
-			    <br>		  
-	
+                <br>          
+    
 
                             <div class="row">
                                 <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
@@ -299,7 +277,7 @@
 
 
 
-			    <div class="row margin-top-10">
+                <div class="row margin-top-10">
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#CauseOfAddiction" class="change-section">
                                         <div class="black-bg btn-menu">
@@ -308,7 +286,7 @@
                                     </a>
                                 </div>
 
-				 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                      <a href="#addictionResults" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Results of Addiction</h2>
@@ -316,7 +294,7 @@
                                       </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabSuggestions" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Suggestions</h2>
@@ -324,24 +302,17 @@
                                     </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabCenter" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Information</h2>
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div>
                             </div>
 
-			    <br>	
-				
+                <br>    
+                
 
                             <div class="row">
                                 <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
@@ -390,7 +361,7 @@
                             <br></br>
 
 
-			    <div class="row margin-top-10">
+                <div class="row margin-top-10">
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#CauseOfAddiction" class="change-section">
                                         <div class="black-bg btn-menu">
@@ -399,7 +370,7 @@
                                     </a>
                                 </div>
 
-				 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                      <a href="#addictionResults" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Results of Addiction</h2>
@@ -407,7 +378,7 @@
                                       </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#Withdrawal" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Withdrawals from Addiction</h2>
@@ -415,25 +386,18 @@
                                     </a>
                                 </div>
 
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabCenter" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Information</h2>
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div>
                             </div>
 
-			    <br>
-			
-				
+                <br>
+            
+                
                             <div class="row">
                                 <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
                                     <div class="col-sm-12 col-md-12 col-lg-12 black-bg">
@@ -517,173 +481,7 @@
 
                             <br></br>
 
-			     <div class="row margin-top-10">
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#CauseOfAddiction" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Causes of Addiction</h2>
-                                        </div>
-                                    </a>
-                                </div>
-
-				 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                     <a href="#addictionResults" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Results of Addiction</h2>
-                                        </div>
-                                      </a>
-                                </div>
-
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Withdrawal" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Withdrawals from Addiction</h2>
-                                        </div>
-                                    </a>
-                                </div>
-
-				                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#RehabSuggestions" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Rehabilitation Suggestions</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-			    <br>
-                            <div class="row">
-                                <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
-                                    <div class="col-sm-12 col-md-12 col-lg-12 black-bg">
-                                        <h2 align= "center">Factors to Consider When Choosing The Right Program for You</h2>
-                                        <p> It is best to compile a list of the things that you find important in a program and stay true to that list. Some examples of factors to consider are:
-                                            <li>
-                                                 Price:
-                                            <ul>
-					    <li>
-						Not all programs are covered by insurance policies and the fees will have to be paid for out of pocket. If you want to abide by your insurance policy make sure to find out which programs your insurance policy will cover.
-					    </li>
-					    </ul>
-					    </li>
-					    
-   					    <li>
-                                                 Location:
-                                            <ul>
-					    <li>
-						Location is an important factor in deciding which treatment center is best for you. This element differs for everyone in various ways. A close recovery center can be a positive aspect in order to stay in touch will family and have them as a support system. It can also be a negative if the city or area you live in has strong effect on your addiction.
-					    </li>
-					    </ul>
-					    </li>
-
-				    	    <li>
-                                                 Program:
-                                            <ul>
-					    <li>
-						The model of the program can play a role in one’s recovery. Some programs adhere to the 12-step model for recovery which also includes a large religious component. Others focus more on a medical model which does not address a spiritual component to addiction and recovery. The model can play a significant role for those who are religious or spiritual and those who are not. You should decide if this component will affect your recovery in anyway.
-					    </li>
-					    </ul>
-					    </li>
-					    
-					    <li>
-                                                 Duration of Program:
-                                            <ul>
-					    <li>
-						 Duration of the program play a large role in determining which program is right. The length of residency and procedure for discharge can play a tremendous role in the likelihood of relapse after being released from the program.
-					    </li>
-					    </ul>
-					    </li>
-						<p>It has been noted that the best programs offer the chance to get away from the way of life that led the addict to trouble, offer a place for medical detox and the treatment includes reintegration into society with the tools to stay sober as an addict in recovery.</p>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
-                                    <div class="col-sm-12 col-md-12 col-lg-12 black-bg">
-                                        <h2 align= "center">Local Area Rehabilitation Centers</h2>
-                                        <p>
-					<ul>
-                                            <li>
-                                                <a href="http://elfuturo-nc.org/language/en/">El Futuro Inc</a>
-						<ul>
-						<li>
-						El Futuro is a young and dynamic organization  that has attracted national recognition for its pioneering work to provide mental health and substance abuse services to Latino families in central North Carolina.
-						</li>
-						</ul>
-                                            </li>
-					    <li>
-                                                <a href="http://freedomhouserecovery.org/">Freedom House Recovery Center</a>
-						<ul>
-						<li>
-						Since 1974, Freedom House Recovery Center has been committed to promote, enhance and support recovery for men, women and children affected by mental illness, developmental disabilities and substance abuse by utilizing an evidence-based, comprehensive and person-centered approach.
-						</li>
-						</ul>
-                                            </li>
-					    <li>
-                                                <a href="http://www.baartprograms.com/index.html">BAART Community Healthcare</a>
-						<ul>
-						<li>
-						BAART Programs began providing drug treatment services to several hundred heroin addicts in San Francisco in 1977. Today, BAART Programs is a multi-service organization providing drug treatment and rehabilitation for patients across the country. We offer treatment for addiction to prescription medications such as oxycontin, hydrocodone and other opioids. Through a number of clinically proven methods, including methadone and buprenorphine (Suboxone) treatment, we have used evidence-based methods to bring the most effective results possible to our patient population. In combining medical treatment with the behavioral services, BAART offers the most successful option for many of our patients. 
-						</li>
-						</ul>
-                                            </li>
-					    <li>
-                                                <a href="http://caareinc.org/?page_id=48">Healing with CAARE Inc</a>
-						<ul>
-						<li>
-						CAARE’s mission is to provide effective prevention and case management services to at-risk persons and their families in Durham by referring health and social resources that can alleviate isolation yet foster independence; to empower the population with preventive health education, counseling, and testing by establishing and maintaining networks and utilizing resources that address the health and social needs of the community; and to provide decent housing that is affordable to low- to moderate-income people.
-						</li>
-						</ul>
-                                            </li>
-					    <li>
-                                                <a href="http://www.trosainc.org/">Triangle Residential Options for Substance Abusers, Inc</a>
-						<ul>
-						<li>
-						TROSA is an innovative, multi-year residential program that enables substance abusers to be productive, recovering individuals by providing comprehensive treatment, work-based vocational training, education, and continuing care.
-						</li>
-						</ul>
-                                            </li>
-					    <li>
-                                                <a href="http://aiopduke.wordpress.com/">Duke Center for Adolescent Substance Use Treatment</a>
-						<ul>
-						<li>
-						We are a group of substance abuse experts with extensive experience. We provide intensive outpatient substance abuse and psychiatric rehabilitation services for high school and college students. We provide state of the art counseling and medication services. Our program was the first substance abuse treatment program for young people in a department of psychiatry in America. 
-						</li>
-						</ul>
-                                            </li>
-					</ul>
-                                        </p>
-                                    </div>
-                                </div>
-
-
-                            <div class="row margin-top-20">
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3  pull-left">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Back to menu</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-                        </section><!-- /.company-intor-section -->  
-
-                <section id="Stories-section" class="inactive">
-                            <div class="black-bg center">
-                                <h2 align="center">Share Your Stories</h2>
-                            </div>
-
-                            <br></br>
-
-
-
-                <div class="row margin-top-10">
+                 <div class="row margin-top-10">
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#CauseOfAddiction" class="change-section">
                                         <div class="black-bg btn-menu">
@@ -701,42 +499,125 @@
                                 </div>
 
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
+                                    <a href="#Withdrawal" class="change-section">
+                                        <div class="black-bg btn-menu">
+                                            <h2>Withdrawals from Addiction</h2>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
                                     <a href="#RehabSuggestions" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Suggestions</h2>
                                         </div>
                                     </a>
                                 </div>
-
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#RehabCenter" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Rehabilitation Information</h2>
-                                        </div>
-                                    </a>
-                                </div>
                             </div>
 
-                <br>    
-                
-
+                <br>
                             <div class="row">
                                 <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
                                     <div class="col-sm-12 col-md-12 col-lg-12 black-bg">
-                                        <h3>fill me!</h3>
+                                        <h2 align= "center">Factors to Consider When Choosing The Right Program for You</h2>
+                                        <p> It is best to compile a list of the things that you find important in a program and stay true to that list. Some examples of factors to consider are:
+                                            <li>
+                                                 Price:
+                                            <ul>
+                        <li>
+                        Not all programs are covered by insurance policies and the fees will have to be paid for out of pocket. If you want to abide by your insurance policy make sure to find out which programs your insurance policy will cover.
+                        </li>
+                        </ul>
+                        </li>
+                        
+                        <li>
+                                                 Location:
+                                            <ul>
+                        <li>
+                        Location is an important factor in deciding which treatment center is best for you. This element differs for everyone in various ways. A close recovery center can be a positive aspect in order to stay in touch will family and have them as a support system. It can also be a negative if the city or area you live in has strong effect on your addiction.
+                        </li>
+                        </ul>
+                        </li>
 
-                                    
-
-
-
-
-
-
-
+                            <li>
+                                                 Program:
+                                            <ul>
+                        <li>
+                        The model of the program can play a role in one’s recovery. Some programs adhere to the 12-step model for recovery which also includes a large religious component. Others focus more on a medical model which does not address a spiritual component to addiction and recovery. The model can play a significant role for those who are religious or spiritual and those who are not. You should decide if this component will affect your recovery in anyway.
+                        </li>
+                        </ul>
+                        </li>
+                        
+                        <li>
+                                                 Duration of Program:
+                                            <ul>
+                        <li>
+                         Duration of the program play a large role in determining which program is right. The length of residency and procedure for discharge can play a tremendous role in the likelihood of relapse after being released from the program.
+                        </li>
+                        </ul>
+                        </li>
+                        <p>It has been noted that the best programs offer the chance to get away from the way of life that led the addict to trouble, offer a place for medical detox and the treatment includes reintegration into society with the tools to stay sober as an addict in recovery.</p>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
+                                    <div class="col-sm-12 col-md-12 col-lg-12 black-bg">
+                                        <h2 align= "center">Local Area Rehabilitation Centers</h2>
+                                        <p>
+                    <ul>
+                                            <li>
+                                                <a href="http://elfuturo-nc.org/language/en/">El Futuro Inc</a>
+                        <ul>
+                        <li>
+                        El Futuro is a young and dynamic organization  that has attracted national recognition for its pioneering work to provide mental health and substance abuse services to Latino families in central North Carolina.
+                        </li>
+                        </ul>
+                                            </li>
+                        <li>
+                                                <a href="http://freedomhouserecovery.org/">Freedom House Recovery Center</a>
+                        <ul>
+                        <li>
+                        Since 1974, Freedom House Recovery Center has been committed to promote, enhance and support recovery for men, women and children affected by mental illness, developmental disabilities and substance abuse by utilizing an evidence-based, comprehensive and person-centered approach.
+                        </li>
+                        </ul>
+                                            </li>
+                        <li>
+                                                <a href="http://www.baartprograms.com/index.html">BAART Community Healthcare</a>
+                        <ul>
+                        <li>
+                        BAART Programs began providing drug treatment services to several hundred heroin addicts in San Francisco in 1977. Today, BAART Programs is a multi-service organization providing drug treatment and rehabilitation for patients across the country. We offer treatment for addiction to prescription medications such as oxycontin, hydrocodone and other opioids. Through a number of clinically proven methods, including methadone and buprenorphine (Suboxone) treatment, we have used evidence-based methods to bring the most effective results possible to our patient population. In combining medical treatment with the behavioral services, BAART offers the most successful option for many of our patients. 
+                        </li>
+                        </ul>
+                                            </li>
+                        <li>
+                                                <a href="http://caareinc.org/?page_id=48">Healing with CAARE Inc</a>
+                        <ul>
+                        <li>
+                        CAARE’s mission is to provide effective prevention and case management services to at-risk persons and their families in Durham by referring health and social resources that can alleviate isolation yet foster independence; to empower the population with preventive health education, counseling, and testing by establishing and maintaining networks and utilizing resources that address the health and social needs of the community; and to provide decent housing that is affordable to low- to moderate-income people.
+                        </li>
+                        </ul>
+                                            </li>
+                        <li>
+                                                <a href="http://www.trosainc.org/">Triangle Residential Options for Substance Abusers, Inc</a>
+                        <ul>
+                        <li>
+                        TROSA is an innovative, multi-year residential program that enables substance abusers to be productive, recovering individuals by providing comprehensive treatment, work-based vocational training, education, and continuing care.
+                        </li>
+                        </ul>
+                                            </li>
+                        <li>
+                                                <a href="http://aiopduke.wordpress.com/">Duke Center for Adolescent Substance Use Treatment</a>
+                        <ul>
+                        <li>
+                        We are a group of substance abuse experts with extensive experience. We provide intensive outpatient substance abuse and psychiatric rehabilitation services for high school and college students. We provide state of the art counseling and medication services. Our program was the first substance abuse treatment program for young people in a department of psychiatry in America. 
+                        </li>
+                        </ul>
+                                            </li>
+                    </ul>
+                                        </p>
                                     </div>
                                 </div>
 
-                            </div>
 
                             <div class="row margin-top-20">
                                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3  pull-left">
@@ -747,13 +628,14 @@
                                     </a>
                                 </div>
                             </div>
-                        </section><!-- /.about-section -->    
+
+                        </section><!-- /.company-intor-section -->    
                     </div><!-- /.templatemo-content -->  
 
                 </div><!-- /.templatemo-content-wrapper --> 
             </div><!-- /.row --> 
 
-		</div><!-- /#main-wrapper -->
+        </div><!-- /#main-wrapper -->
         
         <div id="preloader">
             <div id="status">&nbsp;</div>
