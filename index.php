@@ -82,14 +82,6 @@
                                         </div>
                                     </a>
                                 </div> 
-                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <i class="fa fa-building"></i>
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div> 
                             </div>
                             <div class="row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
@@ -141,13 +133,6 @@
                                     <a href="#RehabCenter" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Information</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
                                         </div>
                                     </a>
                                 </div>
@@ -234,13 +219,6 @@
                                     <a href="#RehabCenter" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Information</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
                                         </div>
                                     </a>
                                 </div>
@@ -331,13 +309,6 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div>
                             </div>
 
 			    <br>	
@@ -419,13 +390,6 @@
                                     <a href="#RehabCenter" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <h2>Rehabilitation Information</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
                                         </div>
                                     </a>
                                 </div>
@@ -549,13 +513,6 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#Stories" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Share Your Stories</h2>
-                                        </div>
-                                    </a>
-                                </div>
                             </div>
 
 			    <br>
@@ -672,82 +629,7 @@
                                 </div>
                             </div>
 
-                        </section><!-- /.company-intor-section -->  
-
-                <section id="Stories-section" class="inactive">
-                            <div class="black-bg center">
-                                <h2 align="center">Share Your Stories</h2>
-                            </div>
-
-                            <br></br>
-
-
-
-                <div class="row margin-top-10">
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#CauseOfAddiction" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Causes of Addiction</h2>
-                                        </div>
-                                    </a>
-                                </div>
-
-                 <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                     <a href="#addictionResults" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Results of Addiction</h2>
-                                        </div>
-                                      </a>
-                                </div>
-
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#RehabSuggestions" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Rehabilitation Suggestions</h2>
-                                        </div>
-                                    </a>
-                                </div>
-
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3 pull-left">
-                                    <a href="#RehabCenter" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Rehabilitation Information</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-                <br>    
-                
-
-                            <div class="row">
-                                <div class="col-sm-12 col-md-12 col-lg-12 margin-bottom-20">
-                                    <div class="col-sm-12 col-md-12 col-lg-12 black-bg">
-                                        <h3>fill me!</h3>
-
-                                    
-
-
-
-
-
-
-
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <div class="row margin-top-20">
-                                <div class="col-xs-3 col-sm-3 col-md-1 col-lg-3  pull-left">
-                                    <a href="#menu" class="change-section">
-                                        <div class="black-bg btn-menu">
-                                            <h2>Back to menu</h2>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </section><!-- /.about-section -->    
+                        </section><!-- /.company-intor-section -->    
                     </div><!-- /.templatemo-content -->  
 
                 </div><!-- /.templatemo-content-wrapper --> 
